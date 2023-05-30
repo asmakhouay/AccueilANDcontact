@@ -1,0 +1,120 @@
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+.footer-clean {
+    background: linear-gradient(275.58deg, #000000 0%, #4B4B4B 100%);
+    color: #ffffff;
+    padding: 50px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-clean .row {
+    justify-content: space-between;
+}
+
+.footer-clean h3 {
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.footer-clean ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-clean ul li {
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+.footer-clean a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer-clean a:hover {
+    text-decoration: underline;
+}
+
+.social-icons a {
+    color: #ffffff;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.social-icons a:hover {
+    color: #ffffff;
+}
+
+.bottom-bar {
+    color: #fff;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+.custom-list-1 li {
+    list-style-type: none;
+    padding-left: 20px;
+    background: url("image.jpg") no-repeat left center;
+    background-size: 16px 16px;
+}
+
+.custom-list-2 li {
+    list-style-type: none;
+    padding-left: 20px;
+    background: url("chemin_vers_image_2.jpg") no-repeat left center;
+    background-size: 16px 16px;
+}
+
+.company-name {
+    margin-bottom: 0;
+    color: #fff;
+}
+
+.personnalise-container {
+    margin-bottom: 400px; 
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 200%;
+}
+
+.personnalise-container h3{
+    color:#0BA7AA;
+}
+
+.enseigner-container {
+    margin-bottom: 200px; 
+    text-align: justify;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 200%;
+}
+
+.premium-container {
+    margin-bottom: 100px; 
+}
+.text-center{
+    margin-bottom: 100px; 
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 200%;
+} 
+
+
+.rounded-button{
+    border-radius: 10px;
+    color:#fff; 
+    background:#0BA7AA;
+    
+}
